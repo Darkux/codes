@@ -1,2 +1,2 @@
 # codes
-this is my codes, test, librely and proyect 
+this is my codes, test, library and proyect 
